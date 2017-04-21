@@ -1,5 +1,3 @@
-# RESTful-API---the-best-practices
-
 
 ## RESTful API Designing guidelines — The best practices
 
